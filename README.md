@@ -15,7 +15,11 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 </tr>
 </table> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=760&lines=Turning+data+into+decisions.;Building+intelligent+products+end-to-end.;Arabic+%7C+English+%7C+Python+%7C+AI" alt="Animated introduction" /> </div>
 
+<div align="center">
+
 ## 👋 About Me
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Undergraduate;Machine+Learning+%7C+NLP+%7C+Time-Series;Building+Data-Driven+Systems" />
 
 I am an **AI & Data Science undergraduate at Zarqa University**, expected to graduate in **2027**.
 I build practical systems that connect **data, prediction, and usable interfaces**.
@@ -24,56 +28,63 @@ My current focus is **Natural Language Processing, Machine Learning, Time-Series
 
 Currently, I am building a **Weather Intelligence Platform** using **React, FastAPI, and SQLite**, focused on turning weather data into useful insights and predictions.
 
+</div>
+
 ---
 
 <div align="center">
 
 ### ⚡ What I Work With
 
-<table>
+</div>
+
+<table align="center">
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 🤖 AI / Machine Learning
 
 Classification • Forecasting • Model Evaluation
-Algorithms from First Principles
+
+`Algorithms from First Principles`
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 🧠 NLP
 
 Arabic Language Processing
-Text Analysis & Experiments
+
+`Text Analysis` • `Experiments`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 🌐 Full-Stack
 
-React • FastAPI • REST APIs
-SQLite • Data-driven Interfaces
+`React` • `FastAPI` • `REST APIs`
+
+`SQLite` • `Data-driven Interfaces`
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 🎓 Education
 
 **B.Sc. Artificial Intelligence & Data Science**
-Zarqa University
-**Expected Graduation: 2027**
+
+**Zarqa University**
+
+`Expected Graduation: 2027`
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -81,11 +92,14 @@ Zarqa University
 
 ### 🚀 Current Project
 
-**Weather Intelligence Platform**
+<h3>Weather Intelligence Platform</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Collecting+Weather+Data;Analyzing+Patterns;Building+Predictions;Turning+Data+Into+Intelligence" />
 
 `React` • `FastAPI` • `SQLite` • `Machine Learning` • `Time-Series Forecasting`
 
 </div>
+
 
 
 Technology stack
