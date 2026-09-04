@@ -1,22 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9C27B0&height=200&section=header&text=Mohammad%20Ismail&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Specialist%20|%20AI/ML%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141413,100:D97757&height=200&section=header&text=Mohammad%20Ismail&fontSize=45&fontColor=f0eee6&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Specialist%20|%20AI/ML%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=55&descSize=16&descColor=f0eee6" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Undergraduate;NLP+%26+Machine+Learning+Developer;Full+Stack+Engineer+(React+%2B+FastAPI);Native+Arabic+%7C+Advanced+English" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Undergraduate;NLP+%26+Machine+Learning+Developer;Full+Stack+Engineer;Native+Arabic+%7C+Advanced+English" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 About Me
-```javascript
-const mohammad = {
-  role: "AI & Data Science Undergraduate",
-  location: "Jordan 🇯🇴",
-  university: "Zarqa University (Expected 2027)",
-  focus: ["NLP", "Machine Learning", "Full-Stack Development"],
-  languages: { arabic: "Native", english: "B2 Advanced" },
-  currentlyBuilding: "Weather Intelligence Platform"
-};
-```
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm an AI & Data Science undergraduate at **Zarqa University** (expected 2027), focused on **NLP**, **Machine Learning**, and **Full-Stack Development**. I build end-to-end applications — from database design to frontend — and I'm passionate about implementing ML algorithms from first principles.
+
+Currently building: **Weather Intelligence Platform** 🌦️
+
+Native Arabic speaker (Levantine) · Advanced English (B2)
+
+</td>
+<td width="40%">
+
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop" width="100%" style="border-radius:10px" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -33,7 +42,7 @@ const mohammad = {
 
 **Programming Languages**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,sql" />
 </p>
 
 **Frontend & Backend**
@@ -57,14 +66,7 @@ const mohammad = {
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
 <img src="https://img.shields.io/badge/Seaborn-65A9A8?style=for-the-badge">
-<img src="https://img.shields.io/badge/SARIMA-orange?style=for-the-badge">
-</p>
-
-**Classification Algorithms**
-<p align="center">
-<img src="https://img.shields.io/badge/KNN-9C27B0?style=for-the-badge">
-<img src="https://img.shields.io/badge/Naive_Bayes-9C27B0?style=for-the-badge">
-<img src="https://img.shields.io/badge/Decision_Trees-9C27B0?style=for-the-badge">
+<img src="https://img.shields.io/badge/SARIMA-D97757?style=for-the-badge">
 </p>
 
 **Tools & Platforms**
@@ -100,7 +102,7 @@ const mohammad = {
 ### 📊 GitHub Analytics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MOHAMMADSMAIL&show_icons=true&theme=radical&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMADSMAIL&theme=radical" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=MOHAMMADSMAIL&theme=radical" width="48%" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMADSMAIL&layout=compact&theme=radical" width="48%" />
@@ -119,36 +121,19 @@ const mohammad = {
 ---
 
 ### 📌 Featured Projects
-
-**🌦️ Weather Intelligence Platform** — React + FastAPI + SQLite
-Full-stack weather app with real-time APIs, CRUD operations, multi-format export, and AI recommendations.
-[View Repo →](https://github.com/MOHAMMADSMAIL/Weather-Intelligence-Platform)
-
-**🧠 ML Classification Tool: Algorithms From Scratch** — Python + NumPy
-KNN, Naive Bayes & Decision Trees implemented from scratch, no black-box libraries.
-[View Repo →](https://github.com/MOHAMMADSMAIL/Classification-Tool-python-project)
-
-**📈 Weather Trend Forecasting** — Python + SARIMA + Scikit-learn
-Time series forecasting comparing SARIMA vs Random Forest (RMSE: 2.87 vs 14.48).
-[View Repo →](https://github.com/MOHAMMADSMAIL/-Weather-Trend-Forecasting)
-
-**☕ Employee Management System with AI Integration** — Java + Design Patterns
-OOP system with Performance Analyzer, Recommendation Engine & Salary Predictor.
-[View Repo →](https://github.com/MOHAMMADSMAIL/Java-OOP-Company-Management-System-with-AI-based-analysis-and-salary-prediction)
-
-**🗣️ Arabic Language NLP Model** — Python
-ML model simulating human-like intelligent responses in Arabic (Levantine dialect).
+- 🌦️ **Weather Intelligence Platform** (React + FastAPI + SQLite) → [View Repo](https://github.com/MOHAMMADSMAIL/Weather-Intelligence-Platform)
+- 🧠 **ML Classification Tool: Algorithms From Scratch** (Python + NumPy) → [View Repo](https://github.com/MOHAMMADSMAIL/Classification-Tool-python-project)
+- 📈 **Weather Trend Forecasting** (Python + SARIMA) → [View Repo](https://github.com/MOHAMMADSMAIL/-Weather-Trend-Forecasting)
+- ☕ **Employee Management System with AI Integration** (Java + Design Patterns) → [View Repo](https://github.com/MOHAMMADSMAIL/Java-OOP-Company-Management-System-with-AI-based-analysis-and-salary-prediction)
+- 🗣️ **Arabic Language NLP Model** (Python) — University academic project
 
 ---
 
 ### 🎓 Education
 Bachelor of Science in Artificial Intelligence & Data Science — Zarqa University (Expected 2027)
 
-### 🗣️ Languages
-Arabic (Native – Levantine) | English (Advanced – B2)
-
 ---
 
 <p align="center"><i>"Any technological or managerial scheme to force documentation can be subverted by unwilling programmers." - Daniel T. Barry</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:2196F3&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:141413&height=100&section=footer" />
