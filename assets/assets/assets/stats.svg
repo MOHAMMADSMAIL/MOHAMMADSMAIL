@@ -1,0 +1,12 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="220" fill="#f0eee6"/>
+  <rect x="30" y="30" width="280" height="160" rx="6" fill="#faf9f5" stroke="#141413" stroke-width="1.5"/>
+  <text x="170" y="105" font-family="Georgia,serif" font-size="48" font-weight="700" fill="#d97757" text-anchor="middle">36</text>
+  <text x="170" y="150" font-family="Arial" font-size="15" fill="#141413" text-anchor="middle">Total Contributions</text>
+  <rect x="360" y="30" width="280" height="160" rx="6" fill="#faf9f5" stroke="#141413" stroke-width="1.5"/>
+  <text x="500" y="105" font-family="Georgia,serif" font-size="48" font-weight="700" fill="#d97757" text-anchor="middle">2</text>
+  <text x="500" y="150" font-family="Arial" font-size="15" fill="#141413" text-anchor="middle">Current Streak</text>
+  <rect x="690" y="30" width="280" height="160" rx="6" fill="#faf9f5" stroke="#141413" stroke-width="1.5"/>
+  <text x="830" y="105" font-family="Georgia,serif" font-size="48" font-weight="700" fill="#d97757" text-anchor="middle">3</text>
+  <text x="830" y="150" font-family="Arial" font-size="15" fill="#141413" text-anchor="middle">Longest Streak</text>
+</svg>
