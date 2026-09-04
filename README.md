@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141413,100:D97757&height=200&section=header&text=Mohammad%20Ismail&fontSize=45&fontColor=f0eee6&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Specialist%20|%20AI/ML%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=55&descSize=16&descColor=f0eee6" />
+![Banner](./assets/banner.svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Undergraduate;NLP+%26+Machine+Learning+Developer;Full+Stack+Engineer;Native+Arabic+%7C+Advanced+English" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 I'm an AI & Data Science undergraduate at **Zarqa University** (expected 2027), focused on **NLP**, **Machine Learning**, and **Full-Stack Development**. I build end-to-end applications — from database design to frontend — and I'm passionate about implementing ML algorithms from first principles.
 
@@ -19,9 +19,9 @@ Currently building: **Weather Intelligence Platform** 🌦️
 Native Arabic speaker (Levantine) · Advanced English (B2)
 
 </td>
-<td width="40%">
+<td width="45%">
 
-<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop" width="100%" style="border-radius:10px" />
+<img src="./assets/about.svg" width="100%" style="border-radius:10px" />
 
 </td>
 </tr>
@@ -100,23 +100,7 @@ Native Arabic speaker (Levantine) · Advanced English (B2)
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MOHAMMADSMAIL&show_icons=true&theme=radical&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=MOHAMMADSMAIL&theme=radical" width="48%" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMADSMAIL&layout=compact&theme=radical" width="48%" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MOHAMMADSMAIL&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMMADSMAIL&theme=react-dark" width="90%" />
-</p>
+![Stats](./assets/stats.svg)
 
 ---
 
