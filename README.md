@@ -88,7 +88,7 @@ OOP system with Performance Analyzer, Recommendation Engine & Salary Predictor.
 Bachelor of Science in Artificial Intelligence & Data Science — Zarqa University (Expected 2027)
 
 ### 🗣️ Languages
-Arabic (Native – Levantine) | English (Advanced – B2)
+Arabic (Native – Levantine) | English (Academic)
 
 ---
 
