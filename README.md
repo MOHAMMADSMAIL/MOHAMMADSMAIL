@@ -1,4 +1,4 @@
- # CV MOHAMMADISMAIL
+
 
  <h1 align="center">Hi 👋, I'm Mohammad Ismail</h1>
 <h3 align="center">Data Science Specialist | AI/ML Developer | Full Stack Engineer</h3>
