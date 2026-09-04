@@ -15,82 +15,78 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 </tr>
 </table> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=760&lines=Turning+data+into+decisions.;Building+intelligent+products+end-to-end.;Arabic+%7C+English+%7C+Python+%7C+AI" alt="Animated introduction" /> </div>
 
-About
+## 👋 About Me
 
-I am an AI and Data Science undergraduate at Zarqa University, expected to graduate in 2027. I build practical systems that connect data, prediction, and usable interfaces.
+I am an **AI & Data Science undergraduate at Zarqa University**, expected to graduate in **2027**.
+I build practical systems that connect **data, prediction, and usable interfaces**.
 
-My current focus is Natural Language Processing, Machine Learning, time-series forecasting, and full-stack development. I am currently building a Weather Intelligence Platform with React, FastAPI, and SQLite.
+My current focus is **Natural Language Processing, Machine Learning, Time-Series Forecasting, and Full-Stack Development**.
+
+Currently, I am building a **Weather Intelligence Platform** using **React, FastAPI, and SQLite**, focused on turning weather data into useful insights and predictions.
+
+---
 
 <div align="center">
 
-Area
-Focus
-AI / ML
-Classification, forecasting, evaluation, and algorithms from first principles
-NLP
-Arabic language processing and text-focused experiments
-Full-Stack
-React interfaces, FastAPI services, databases, and REST APIs
-Education
-B.Sc. Artificial Intelligence & Data Science — Zarqa University
-
-
-
-
-</div>
-
-Featured projects
+### ⚡ What I Work With
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-Weather Intelligence Platform
+### 🤖 AI / Machine Learning
 
-A full-stack weather product that turns forecasts into useful decisions.
-
-React FastAPI SQLite
-
-<a href="https://github.com/MOHAMMADSMAIL/Weather-Intelligence-Platform">View repository →</a>
+Classification • Forecasting • Model Evaluation
+Algorithms from First Principles
 
 </td>
-<td width="50%" valign="top">
 
-Classification Tool
+<td width="50%" align="center">
 
-Machine-learning classification algorithms implemented from first principles.
+### 🧠 NLP
 
-Python NumPy Machine Learning
-
-<a href="https://github.com/MOHAMMADSMAIL/Classification-Tool-python-project">View repository →</a>
+Arabic Language Processing
+Text Analysis & Experiments
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-Weather Trend Forecasting
+### 🌐 Full-Stack
 
-Time-series exploration and SARIMA forecasting for weather trends.
-
-Python SARIMA Data Analysis
-
-<a href="https://github.com/MOHAMMADSMAIL/-Weather-Trend-Forecasting">View repository →</a>
+React • FastAPI • REST APIs
+SQLite • Data-driven Interfaces
 
 </td>
-<td width="50%" valign="top">
 
-Company Management System
+<td width="50%" align="center">
 
-Java OOP project with design patterns, analysis, and salary prediction.
+### 🎓 Education
 
-Java OOP Design Patterns
-
-<a href="https://github.com/MOHAMMADSMAIL/Java-OOP-Company-Management-System-with-AI-based-analysis-and-salary-prediction">View repository →</a>
+**B.Sc. Artificial Intelligence & Data Science**
+Zarqa University
+**Expected Graduation: 2027**
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Current Project
+
+**Weather Intelligence Platform**
+
+`React` • `FastAPI` • `SQLite` • `Machine Learning` • `Time-Series Forecasting`
+
+</div>
+
 
 Technology stack
 
