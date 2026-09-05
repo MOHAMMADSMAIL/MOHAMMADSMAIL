@@ -23,6 +23,27 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 
 <br>
 
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                 COMPUTER INTERACTION SYSTEM                 ║
+║                         :: 1979 ::                           ║
+║                                                              ║
+║              ▪  SYSTEM INITIALIZATION                       ║
+║              ▪  CONNECTION ESTABLISHED                      ║
+║              ▪  HUMAN → COMPUTER                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=HELLO%2C+COMPUTER.;PROCESSING+DATA...;ANALYZING+PATTERNS...;GENERATING+PREDICTIONS...;SYSTEM+READY." />
+
+</div>
+
+---
+
 ## 👋 About Me
 
 I am an **AI & Data Science undergraduate at Zarqa University**, expected to graduate in **2027**.
@@ -34,77 +55,96 @@ Currently, I am building a **Weather Intelligence Platform** using **React, Fast
 
 ---
 
-### ⚡ What I Work With
+<div align="center">
 
-<table align="center">
-<tr>
+```text
+                 ┌──────────────────────┐
+                 │   WHAT I WORK WITH   │
+                 └──────────┬───────────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
 
-<td align="center">
+       AI / ML             NLP           FULL-STACK
 
-### 🟢 AI / Machine Learning
+          │                 │                 │
+          ▼                 ▼                 ▼
 
-Classification • Forecasting • Model Evaluation
+   Classification      Arabic NLP        React
+   Forecasting         Text Analysis     FastAPI
+   Evaluation          Experiments       REST APIs
+   First Principles                      SQLite
 
-**Algorithms from First Principles**
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │  EDUCATION  │
+                     └──────┬──────┘
+                            │
+                            ▼
+              B.Sc. Artificial Intelligence
+                     & Data Science
+                     Zarqa University
+                         2027
+```
 
-</td>
-
-<td align="center">
-
-### 🔵 NLP
-
-Arabic Language Processing
-
-**Text Analysis & Experiments**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🟣 Full-Stack
-
-React • FastAPI • REST APIs
-
-SQLite • Data-driven Interfaces
-
-</td>
-
-<td align="center">
-
-### 🟡 Education
-
-**B.Sc. Artificial Intelligence & Data Science**
-
-Zarqa University
-
-**Expected Graduation: 2027**
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-### 🚀 Current Project
+### ⚡ What I Work With
+
+### 🤖 AI / Machine Learning
+
+Classification • Forecasting • Model Evaluation
+Algorithms from First Principles
+
+### 🧠 NLP
+
+Arabic Language Processing
+Text Analysis & Experiments
+
+### 🌐 Full-Stack
+
+React • FastAPI • REST APIs
+SQLite • Data-driven Interfaces
+
+### 🎓 Education
+
+**B.Sc. Artificial Intelligence & Data Science**
+Zarqa University
+**Expected Graduation: 2027**
+
+---
 
 <div align="center">
 
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                    CURRENT PROJECT                           │
+│                                                              │
+│             WEATHER INTELLIGENCE PLATFORM                    │
+│                                                              │
+│    [ DATA ] ──→ [ ANALYSIS ] ──→ [ PREDICTION ]             │
+│         │              │                 │                   │
+│         └──────────────┴─────────────────┘                   │
+│                        │                                     │
+│                        ▼                                     │
+│                  [ INTERFACE ]                               │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+### 🚀 Current Project
+
 **Weather Intelligence Platform**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1800&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=%5B+LOADING+WEATHER+DATA...+%5D;%5B+ANALYZING+PATTERNS...+%5D;%5B+RUNNING+FORECAST...+%5D;%5B+SYSTEM+READY+%5D" />
-
-<br>
 
 `React` • `FastAPI` • `SQLite` • `Machine Learning` • `Time-Series Forecasting`
 
 </div>
+
 
 
 
