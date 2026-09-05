@@ -1,6 +1,6 @@
-ر<div align="center">
+<div align="center">
 
-![Banner](./assets/banner.svg)
+![Banner](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/banner.svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Turning+data+into+decisions.;Building+intelligent+products+end-to-end.;Arabic+%7C+English+%7C+Python+%7C+AI" alt="Animated introduction" />
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Featured Projects](./assets/projects.svg)
+![Featured Projects](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/projects.svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![About](./assets/about.svg)
+![About](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/about.svg)
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-![Stats](./assets/stats.svg)
+![Stats](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/stats.svg)
 
 </div>
 
@@ -107,8 +107,6 @@
 ---
 
 <div align="center">
-
-*Build with intent. Learn in public. Make complexity feel simple.*
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity" width="100%" />
 
