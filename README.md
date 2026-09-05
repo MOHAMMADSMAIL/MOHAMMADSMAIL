@@ -18,9 +18,11 @@
 
 | 📌 Project | 🛠️ Tech Stack | 📝 Description |
 |------------|----------------|----------------|
-| **AI Sales Forecaster** | Python, Scikit-learn, Power BI | Time-series forecasting for retail sales using SARIMA & ML |
-| **Smart Chatbot** | FastAPI, NLP, Docker | Arabic/English NLP chatbot with REST API |
-| **Data Pipeline** | Python, PostgreSQL, Azure | ETL pipeline for real-time data processing |
+| **Weather Intelligence Platform** | React, FastAPI, SQLite | Full-stack weather app with real-time APIs, CRUD operations, multi-format export (JSON/CSV/PDF), and AI-powered recommendations |
+| **ML Classification Tool (From Scratch)** | Python, NumPy, Matplotlib | Implemented KNN, Naive Bayes, Decision Trees from scratch with data cleaning, encoding, scaling, and comparative visualization |
+| **Weather Trend Forecasting** | Python, Pandas, Scikit-learn, SARIMA | Time series forecasting with SARIMA vs Random Forest (RMSE: 2.87 vs 14.48), anomaly detection using Z-score |
+| **Employee Management System with AI** | Java, Design Patterns | OOP system with Abstract Factory, Strategy, Template Method patterns + AI Performance Analyzer, Recommendation Engine, Salary Predictor |
+| **Arabic Language NLP Model** | Python | University project: ML model for Arabic (Levantine dialect) with text understanding, generation, and linguistic evaluation |
 
 </div>
 
@@ -34,12 +36,16 @@
 
 <div align="center">
 
-I'm **Mohammad Ismail**, a Data Scientist & AI Engineer passionate about turning raw data into actionable insights. I build end-to-end intelligent products using Python, AI, and cloud platforms.
+**MOHAMMAD MOHSEN ISMAIL ISMAIL**  
+*Data Science Specialist | AI/ML Developer | Full Stack Engineer*
 
-- 🌍 Based in the Middle East
-- 🗣️ Languages: Arabic | English
-- 💻 Stack: Python, FastAPI, React, PostgreSQL, Docker, Azure
-- 📈 Focus: Machine Learning, NLP, Time Series, Data Engineering
+Results-driven AI and Data Science professional with demonstrated expertise in **Natural Language Processing (NLP)**, data quality assessment, and linguistic evaluation. Proven ability to develop and implement machine learning models with focus on **Arabic language processing**. Full-stack developer experienced in building end-to-end applications from database design to frontend implementation.
+
+- 🌍 **Based in:** Middle East
+- 🗣️ **Languages:** Arabic (Native - Levantine Dialect) | English (Advanced - B2 Level)
+- 💻 **Core Stack:** Python, Java, JavaScript, SQL, React, FastAPI, Node.js
+- 📈 **Focus:** Machine Learning, Deep Learning, NLP, Time Series Forecasting, Data Engineering
+- 🎓 **Education:** B.Sc. in Artificial Intelligence & Data Science, Zarqa University (Expected 2027)
 
 </div>
 
@@ -75,6 +81,7 @@ I'm **Mohammad Ismail**, a Data Scientist & AI Engineer passionate about turning
 <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge">
 <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge">
 <img src="https://img.shields.io/badge/Time_Series_Forecasting-3776AB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Classification_Algorithms-FF6F00?style=for-the-badge">
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -100,38 +107,62 @@ I'm **Mohammad Ismail**, a Data Scientist & AI Engineer passionate about turning
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHAMMADSMAIL&theme=github_dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&icon_color=58A6FF)
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MOHAMMADSMAIL&theme=github_dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&icon_color=2ea043&cache_seconds=86400" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMADSMAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&layout=compact)
+<!-- Top Languages -->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOHAMMADSMAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&layout=compact&cache_seconds=86400" alt="Top Languages" />
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/api?username=MOHAMMADSMAIL&theme=github-compact&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&line_color=58A6FF&point_color=2ea043&hide_border=true)
+<!-- Contribution Graph with Green Dots (Snake Theme) -->
+<img src="https://github-readme-activity-graph.vercel.app/api?username=MOHAMMADSMAIL&theme=github-compact&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&line_color=2ea043&point_color=2ea043&hide_border=true&cache_seconds=86400" alt="Contribution Graph" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMADSMAIL&theme=dark&hide_border=true&background=0d1117&stroke=2ea043&ring=58A6FF&fire=2ea043&currStreakLabel=58A6FF&sideLabels=7d8590&sideNums=2ea043&currStreakNum=2ea043" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 🎓 Certifications
+### 🎓 Certifications & Professional Credentials
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>
-<p align="center">
 <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Engineer_(DP--800)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
+<img src="https://img.shields.io/badge/Cisco-Cloud_Partner_Network-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/Python_Essentials_1_%26_2-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Science_Essentials-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Cisco-Python_Essentials_1_%26_2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/Data_Science_Essentials-with_Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Anthropic-Claude_Partner_Network_Learning_Path-D97757?style=for-the-badge">
-</p>
+
+---
+
+### 💼 Professional Experience
+
+**Data Analyst Trainee | Zain Telecom | Remote | 4 Months**
+- Performed comprehensive data cleaning and preprocessing using Python
+- Developed data validation pipelines ensuring data quality and integrity
+- Analyzed large datasets using SQL queries to identify trends and insights
+- Contributed to system modernization initiatives using Java and SQL
+- Collaborated with cross-functional teams on quality assessment solutions
+
+---
+
+### 🏆 Notable Technical Achievements
+
+- **Weather Intelligence Platform:** Full-stack app with React + FastAPI + SQLite, real-time weather APIs, multi-format export (JSON/CSV/PDF), AI-powered recommendations
+- **ML Classification from Scratch:** Implemented KNN, Naive Bayes, Decision Trees using only Python + NumPy with comparative visualization
+- **Weather Trend Forecasting:** SARIMA vs Random Forest (RMSE: 2.87 vs 14.48), Z-score anomaly detection
+- **Employee Management System:** Java OOP with Design Patterns (Abstract Factory, Strategy, Template Method) + AI Performance Analyzer, Recommendation Engine, Salary Predictor
+- **Arabic NLP Model:** University project for Levantine dialect with text understanding, generation, and linguistic evaluation
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity" width="100%" />
+<!-- Snake Game Animation (Green Dots Theme) -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
