@@ -101,28 +101,33 @@ Native Arabic speaker (Levantine) · Advanced English (B2)
 
 ---
 
-### 🎓 Certifications
-<p align="center">
-<img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Engineer_(DP--800)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
-<img src="https://img.shields.io/badge/Cisco-Cloud_Partner_Network-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Cisco-Python_Essentials_1_%26_2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/Data_Science_Essentials-with_Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
+
 
 ---
+
+Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS AI Practitioner" /> <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" /> <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Engineer" /> <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM AI Fundamentals" /> <img src="https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Python Essentials" />
+
+</div>
 
 GitHub activity
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMMADSMAIL&bg_color=0D1117&color=D97757&line=D97757&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" width="100%" /> </div>
+
+
+
+
+<div align="center">
+
+
+Build with intent. Learn in public. Make complexity feel simple.
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity" width="100%" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:08090D&height=110&section=footer&animation=twinkling" alt="Footer" width="100%" /> </div>
+
+
 
 
 
