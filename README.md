@@ -136,8 +136,9 @@ Explore my full portfolio with all repositories, contributions, and ongoing proj
 
 **Programming Languages**
 </div>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,mysql,html,css,jupyter&theme=dark" />
-
+</p>
 **Frontend & Backend**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,vite,fastapi,nodejs&theme=dark" />
