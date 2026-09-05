@@ -1,51 +1,36 @@
-<svg width="900" height="820" viewBox="0 0 900 820" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="900" viewBox="0 0 900 900" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="parchment" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#efe3c6"/>
-      <stop offset="50%" stop-color="#e2d0a4"/>
-      <stop offset="100%" stop-color="#d3bd8c"/>
-    </linearGradient>
-    <filter id="rough">
-      <feTurbulence type="fractalNoise" baseFrequency="0.015" numOctaves="4" seed="7" result="noise"/>
-      <feDisplacementMap in="SourceGraphic" in2="noise" scale="14"/>
+    <radialGradient id="parchmentGrad" cx="45%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#efe0bc"/>
+      <stop offset="55%" stop-color="#e0cb99"/>
+      <stop offset="100%" stop-color="#c7ab77"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+      <stop offset="55%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#3a2513" stop-opacity="0.55"/>
+    </radialGradient>
+    <filter id="grain" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="11" result="n"/>
+      <feColorMatrix in="n" type="saturate" values="0" result="ng"/>
+      <feComponentTransfer in="ng" result="ngc">
+        <feFuncA type="linear" slope="0.35"/>
+      </feComponentTransfer>
     </filter>
+    <clipPath id="innerClip">
+      <path d="M 28.0,33.5 L 88.3,32.4 L 148.6,23.7 L 208.9,20.5 L 269.1,25.0 L 329.4,24.3 L 389.7,23.4 L 450.0,35.1 L 510.3,34.0 L 570.6,25.0 L 630.9,30.5 L 691.1,26.3 L 751.4,34.6 L 811.7,27.3 L 875.8,28.0 L 876.1,88.3 L 871.0,148.6 L 875.8,208.9 L 870.6,269.1 L 865.6,329.4 L 873.6,389.7 L 876.5,450.0 L 864.0,510.3 L 871.8,570.6 L 878.5,630.9 L 879.2,691.1 L 878.2,751.4 L 870.0,811.7 L 872.0,867.3 L 811.7,873.2 L 751.4,879.0 L 691.1,873.9 L 630.9,864.1 L 570.6,871.5 L 510.3,864.5 L 450.0,866.2 L 389.7,879.8 L 329.4,868.5 L 269.1,869.1 L 208.9,871.4 L 148.6,875.7 L 88.3,869.7 L 21.8,872.0 L 27.0,811.7 L 27.3,751.4 L 35.3,691.1 L 34.0,630.9 L 24.2,570.6 L 28.0,510.3 L 22.9,450.0 L 34.6,389.7 L 33.9,329.4 L 24.8,269.1 L 30.2,208.9 L 29.7,148.6 L 22.4,88.3 Z"/>
+    </clipPath>
   </defs>
 
-  <rect x="0" y="0" width="900" height="820" fill="#8a6d4a"/>
-  <rect x="15" y="15" width="870" height="790" fill="url(#parchment)" filter="url(#rough)"/>
-  <rect x="35" y="35" width="830" height="750" fill="none" stroke="#5c4632" stroke-width="3"/>
-  <rect x="42" y="42" width="816" height="736" fill="none" stroke="#5c4632" stroke-width="1"/>
+  <rect width="900" height="900" fill="#2e1c0f"/>
 
-  <text x="450" y="95" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700" fill="#3b2b1a" text-anchor="middle" letter-spacing="3">FEATURED PROJECTS</text>
-  <line x1="220" y1="115" x2="680" y2="115" stroke="#8a6d4a" stroke-width="2"/>
+  <path d="M 10.0,13.9 L 65.0,-3.3 L 120.0,3.7 L 175.0,2.2 L 230.0,16.6 L 285.0,14.9 L 340.0,21.0 L 395.0,-1.6 L 450.0,7.8 L 505.0,-3.2 L 560.0,2.1 L 615.0,10.1 L 670.0,-3.3 L 725.0,1.6 L 780.0,14.2 L 835.0,11.3 L 897.8,10.0 L 887.5,65.0 L 881.3,120.0 L 903.8,175.0 L 881.4,230.0 L 884.5,285.0 L 894.5,340.0 L 899.6,395.0 L 877.2,450.0 L 894.6,505.0 L 901.4,560.0 L 901.3,615.0 L 880.3,670.0 L 887.1,725.0 L 881.4,780.0 L 883.6,835.0 L 890.0,889.0 L 835.0,876.8 L 780.0,893.4 L 725.0,888.5 L 670.0,880.8 L 615.0,886.7 L 560.0,879.9 L 505.0,887.8 L 450.0,884.3 L 395.0,902.7 L 340.0,897.6 L 285.0,895.9 L 230.0,901.8 L 175.0,897.5 L 120.0,901.2 L 65.0,896.2 L 13.8,890.0 L 6.2,835.0 L 6.4,780.0 L 1.9,725.0 L 3.5,670.0 L 22.2,615.0 L 14.1,560.0 L 13.1,505.0 L 0.8,450.0 L 16.4,395.0 L 0.6,340.0 L 6.6,285.0 L 23.7,230.0 L 13.9,175.0 L 11.6,120.0 L 15.2,65.0 Z"
+        fill="#7a5732"/>
 
-  <text x="80" y="175" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#3b2b1a">Weather Intelligence Platform</text>
-  <text x="80" y="205" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">React + FastAPI + SQLite — Full-stack weather app with real-time APIs,</text>
-  <text x="80" y="228" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">CRUD operations, multi-format export, and AI-powered recommendations.</text>
+  <path d="M 28.0,33.5 L 88.3,32.4 L 148.6,23.7 L 208.9,20.5 L 269.1,25.0 L 329.4,24.3 L 389.7,23.4 L 450.0,35.1 L 510.3,34.0 L 570.6,25.0 L 630.9,30.5 L 691.1,26.3 L 751.4,34.6 L 811.7,27.3 L 875.8,28.0 L 876.1,88.3 L 871.0,148.6 L 875.8,208.9 L 870.6,269.1 L 865.6,329.4 L 873.6,389.7 L 876.5,450.0 L 864.0,510.3 L 871.8,570.6 L 878.5,630.9 L 879.2,691.1 L 878.2,751.4 L 870.0,811.7 L 872.0,867.3 L 811.7,873.2 L 751.4,879.0 L 691.1,873.9 L 630.9,864.1 L 570.6,871.5 L 510.3,864.5 L 450.0,866.2 L 389.7,879.8 L 329.4,868.5 L 269.1,869.1 L 208.9,871.4 L 148.6,875.7 L 88.3,869.7 L 21.8,872.0 L 27.0,811.7 L 27.3,751.4 L 35.3,691.1 L 34.0,630.9 L 24.2,570.6 L 28.0,510.3 L 22.9,450.0 L 34.6,389.7 L 33.9,329.4 L 24.8,269.1 L 30.2,208.9 L 29.7,148.6 L 22.4,88.3 Z"
+        fill="url(#parchmentGrad)"/>
 
-  <line x1="80" y1="255" x2="820" y2="255" stroke="#c4a976" stroke-width="1" stroke-dasharray="4,4"/>
+  <g clip-path="url(#innerClip)">
+    <rect width="900" height="900" filter="url(#grain)" style="mix-blend-mode:multiply"/>
+    <rect width="900" height="900" fill="url(#vignette)" style="mix-blend-mode:multiply"/>
 
-  <text x="80" y="300" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#3b2b1a">ML Classification Tool: From Scratch</text>
-  <text x="80" y="330" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">Python + NumPy — KNN, Naive Bayes &amp; Decision Trees built from first</text>
-  <text x="80" y="353" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">principles, with no black-box libraries. Full evaluation pipeline included.</text>
-
-  <line x1="80" y1="380" x2="820" y2="380" stroke="#c4a976" stroke-width="1" stroke-dasharray="4,4"/>
-
-  <text x="80" y="425" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#3b2b1a">Weather Trend Forecasting</text>
-  <text x="80" y="455" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">Python + SARIMA + Scikit-learn — Compared SARIMA vs. Random Forest</text>
-  <text x="80" y="478" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">for temperature prediction (RMSE 2.87 vs 14.48). Includes anomaly detection.</text>
-
-  <line x1="80" y1="505" x2="820" y2="505" stroke="#c4a976" stroke-width="1" stroke-dasharray="4,4"/>
-
-  <text x="80" y="550" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#3b2b1a">Employee Management System + AI</text>
-  <text x="80" y="580" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">Java + Design Patterns — OOP system with Performance Analyzer,</text>
-  <text x="80" y="603" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">Recommendation Engine &amp; Salary Predictor using multi-factor analysis.</text>
-
-  <line x1="80" y1="630" x2="820" y2="630" stroke="#c4a976" stroke-width="1" stroke-dasharray="4,4"/>
-
-  <text x="80" y="675" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#3b2b1a">Arabic Language NLP Model</text>
-  <text x="80" y="705" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">Python — ML model simulating human-like responses in Arabic</text>
-  <text x="80" y="728" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">(Levantine dialect), with full training and linguistic evaluation framework.</text>
-
-  <text x="450" y="775" font-family="Georgia, serif" font-size="14" fill="#8a6d4a" text-anchor="middle" font-style="italic">~ view repositories below for full source code ~</text>
-</svg>
+    <ellipse cx="654.8" cy="480.7" rx="60.0" ry="37.6"
