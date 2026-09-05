@@ -1,38 +1,23 @@
 <div align="center">
 
-<!-- Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&animation=twinkling" alt="Header" width="100%" />
+![Banner](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/banner.svg)
 
-<!-- Profile Picture / Logo -->
-<img src="https://avatars.githubusercontent.com/u/MOHAMMADSMAIL?s=400&v=4" alt="Profile" width="150" style="border-radius: 50%; border: 3px solid #58A6FF; box-shadow: 0 0 20px rgba(88,166,255,0.4); margin-top: -80px;" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Turning+data+into+decisions.;Building+intelligent+products+end-to-end.;Arabic+%7C+English+%7C+Python+%7C+AI" alt="Animated introduction" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=MOHAMMAD+MOHSEN+ISMAIL+ISMAIL;Data+Science+Specialist+%7C+AI%2FML+Developer;Building+Intelligent+Products+End-to-End" alt="Typing" />
+<!-- 3D Animated Name -->
+<h1 style="font-size: 2.5em; text-shadow: 3px 3px 0px #58A6FF, 6px 6px 0px #0d1117;">
+MOHAMMAD MOHSEN ISMAIL ISMAIL
+</h1>
 
-<!-- Quick Stats Banner -->
-<table align="center" style="margin: 20px 0; border-collapse: collapse;">
-<tr>
-<td align="center" style="padding: 15px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px; margin: 5px;">
-<b style="color: #58A6FF; font-size: 1.5em;">📍</b><br>
-<span style="color: #7d8590;">Zarqa, Jordan</span>
-</td>
-<td align="center" style="padding: 15px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px; margin: 5px;">
-<b style="color: #2ea043; font-size: 1.5em;">🎓</b><br>
-<span style="color: #7d8590;">B.Sc. AI & Data Science<br>2027</span>
-</td>
-<td align="center" style="padding: 15px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px; margin: 5px;">
-<b style="color: #FF6F00; font-size: 1.5em;">💼</b><br>
-<span style="color: #7d8590;">Open to Work</span>
-</td>
-</tr>
-</table>
+<h3 style="font-size: 1.3em; color: #7d8590; text-shadow: 2px 2px 0px #2ea043;">
+Data Science Specialist | AI/ML Developer | Full Stack Engineer
+</h3>
 
-<!-- Social Links -->
 <p align="center">
-<a href="https://linkedin.com/in/mohammad-ismail-0721a3359" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn"/></a>
-<a href="mailto:mohammad.ismail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Email"/></a>
-<a href="https://github.com/MOHAMMADSMAIL" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"/></a>
-<a href="https://wa.me/962777513720" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366" alt="WhatsApp"/></a>
+<a href="https://linkedin.com/in/mohammad-ismail-0721a3359" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn"></a>
+<a href="mailto:mohammad.ismail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Email"></a>
+<a href="https://github.com/MOHAMMADSMAIL" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"></a>
+<a href="https://wa.me/962777513720" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366" alt="WhatsApp" style="transform: scale(1.2);"></a>
 </p>
 
 </div>
