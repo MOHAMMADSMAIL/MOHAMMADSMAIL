@@ -10,17 +10,36 @@
 
 <div align="center">
 
-![Featured Projects](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/Projects.svg)
+### 🌟 Featured Projects
+
+</div>
+
+<div align="center">
+
+| 📌 Project | 🛠️ Tech Stack | 📝 Description |
+|------------|----------------|----------------|
+| **AI Sales Forecaster** | Python, Scikit-learn, Power BI | Time-series forecasting for retail sales using SARIMA & ML |
+| **Smart Chatbot** | FastAPI, NLP, Docker | Arabic/English NLP chatbot with REST API |
+| **Data Pipeline** | Python, PostgreSQL, Azure | ETL pipeline for real-time data processing |
 
 </div>
 
 ---
 
+<div align="center">
+
 ### 👋 About Me
+
+</div>
 
 <div align="center">
 
-![About](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/About.svg)
+I'm **Mohammad Ismail**, a Data Scientist & AI Engineer passionate about turning raw data into actionable insights. I build end-to-end intelligent products using Python, AI, and cloud platforms.
+
+- 🌍 Based in the Middle East
+- 🗣️ Languages: Arabic | English
+- 💻 Stack: Python, FastAPI, React, PostgreSQL, Docker, Azure
+- 📈 Focus: Machine Learning, NLP, Time Series, Data Engineering
 
 </div>
 
@@ -81,7 +100,11 @@
 
 <div align="center">
 
-![Stats](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/Stats.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHAMMADSMAIL&theme=github_dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMADSMAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&layout=compact)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/api?username=MOHAMMADSMAIL&theme=github-compact&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&line_color=58A6FF&point_color=2ea043&hide_border=true)
 
 </div>
 
