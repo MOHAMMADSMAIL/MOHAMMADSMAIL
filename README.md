@@ -1,3 +1,21 @@
+<!-- Snake Animation -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" style="border-radius: 15px;" />
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer&animation=twinkling" alt="Footer" width="100%" />
+
+</div>
+
+
+
+
+
 <div align="center">
 
 ![Banner](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/banner.svg)
