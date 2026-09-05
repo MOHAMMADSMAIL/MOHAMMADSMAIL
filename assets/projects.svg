@@ -33,4 +33,61 @@
     <rect width="900" height="900" filter="url(#grain)" style="mix-blend-mode:multiply"/>
     <rect width="900" height="900" fill="url(#vignette)" style="mix-blend-mode:multiply"/>
 
-    <ellipse cx="654.8" cy="480.7" rx="60.0" ry="37.6"
+    <ellipse cx="654.8" cy="480.7" rx="60.0" ry="37.6" fill="#5a3d21" opacity="0.13"/>
+    <ellipse cx="75.2" cy="784.7" rx="64.5" ry="48.8" transform="rotate(110.7 75.2 784.7)" fill="#5a3d21" opacity="0.09"/>
+    <ellipse cx="744.8" cy="798.6" rx="28.9" ry="36.0" transform="rotate(24.9 744.8 798.6)" fill="#5a3d21" opacity="0.19"/>
+    <ellipse cx="657.4" cy="160.1" rx="46.4" ry="38.3" transform="rotate(95.4 657.4 160.1)" fill="#5a3d21" opacity="0.20"/>
+    <ellipse cx="390.0" cy="225.2" rx="49.3" ry="45.0" transform="rotate(72.4 390.0 225.2)" fill="#5a3d21" opacity="0.12"/>
+    <ellipse cx="836.2" cy="566.9" rx="44.7" ry="37.2" transform="rotate(43.6 836.2 566.9)" fill="#5a3d21" opacity="0.11"/>
+    <ellipse cx="323.7" cy="518.9" rx="35.4" ry="26.1" transform="rotate(25.6 323.7 518.9)" fill="#5a3d21" opacity="0.17"/>
+    <ellipse cx="238.6" cy="766.2" rx="63.7" ry="20.6" transform="rotate(85.7 238.6 766.2)" fill="#5a3d21" opacity="0.17"/>
+    <ellipse cx="227.1" cy="163.2" rx="67.1" ry="39.1" transform="rotate(170.2 227.1 163.2)" fill="#5a3d21" opacity="0.19"/>
+
+    <circle cx="855.7" cy="135.6" r="11.4" fill="#2e1c0f" opacity="0.5"/>
+    <circle cx="855.7" cy="135.6" r="20.6" fill="#6b4423" opacity="0.25"/>
+    <circle cx="862.3" cy="733.8" r="8.4" fill="#2e1c0f" opacity="0.5"/>
+    <circle cx="862.3" cy="733.8" r="15.2" fill="#6b4423" opacity="0.25"/>
+    <circle cx="107.3" cy="41.8" r="14.4" fill="#2e1c0f" opacity="0.5"/>
+    <circle cx="107.3" cy="41.8" r="25.9" fill="#6b4423" opacity="0.25"/>
+    <circle cx="254.0" cy="25.7" r="11.6" fill="#2e1c0f" opacity="0.5"/>
+    <circle cx="254.0" cy="25.7" r="20.9" fill="#6b4423" opacity="0.25"/>
+
+    <path d="M 60,300 Q 450,280 840,310" stroke="#6b4a28" stroke-width="1.5" opacity="0.25" fill="none"/>
+    <path d="M 55,600 Q 450,585 845,610" stroke="#6b4a28" stroke-width="1.5" opacity="0.25" fill="none"/>
+  </g>
+
+  <text x="450" y="115" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#2e1c0f" text-anchor="middle" letter-spacing="3">FEATURED PROJECTS</text>
+  <line x1="230" y1="135" x2="670" y2="135" stroke="#5a3d21" stroke-width="2"/>
+
+  <text x="70" y="195" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#2e1c0f">Weather Intelligence Platform</text>
+  <text x="70" y="224" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#4a3420">React + FastAPI + SQLite — Full-stack weather app with real-time APIs,</text>
+  <text x="70" y="246" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#4a3420">CRUD operations, multi-format export, and AI-powered recommendations.</text>
+
+  <line x1="70" y1="272" x2="830" y2="272" stroke="#a8895c" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <text x="70" y="318" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#2e1c0f">ML Classification Tool: From Scratch</text>
+  <text x="70" y="347" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#4a3420">Python + NumPy — KNN, Naive Bayes &amp; Decision Trees built from first</text>
+  <text x="70" y="369" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#4a3420">principles, with no black-box libraries. Full evaluation pipeline included.</text>
+
+  <line x1="70" y1="395" x2="830" y2="395" stroke="#a8895c" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <text x="70" y="440" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#2e1c0f">Weather Trend Forecasting</text>
+  <text x="70" y="469" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#4a3420">Python + SARIMA + Scikit-learn — Compared SARIMA vs. Random Forest</text>
+  <text x="70" y="491" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#4a3420">for temperature prediction (RMSE 2.87 vs 14.48). Includes anomaly detection.</text>
+
+  <line x1="70" y1="517" x2="830" y2="517" stroke="#a8895c" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <text x="70" y="562" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#2e1c0f">Employee Management System + AI</text>
+  <text x="70" y="591" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#4a3420">Java + Design Patterns — OOP system with Performance Analyzer,</text>
+  <text x="70" y="613" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#4a3420">Recommendation Engine &amp; Salary Predictor using multi-factor analysis.</text>
+
+  <line x1="70" y1="639" x2="830" y2="639" stroke="#a8895c" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <text x="70" y="684" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#2e1c0f">Arabic Language NLP Model</text>
+  <text x="70" y="713" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#4a3420">Python — ML model simulating human-like responses in Arabic</text>
+  <text x="70" y="735" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#4a3420">(Levantine dialect), with full training and linguistic evaluation framework.</text>
+
+  <text x="450" y="800" font-family="Georgia, serif" font-size="14" fill="#6b4a28" text-anchor="middle" font-style="italic">~ view repositories below for full source code ~</text>
+</svg>
+
+
