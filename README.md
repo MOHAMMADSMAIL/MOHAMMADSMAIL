@@ -195,16 +195,16 @@ Explore my full portfolio with all repositories, contributions, and ongoing proj
 
 ## Certifications
 
-</div>
-
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&color=FF9900"/>
 <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&color=FF9900"/>
 <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&color=0078D4"/>
 <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white&color=052FAD"/>
-<img src="https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white&color=1BA0D7"/>
-<img src="https://img.shields.io/badge/Data_Science_Essentials-3776AB?style=flat-square&logo=python&logoColor=white&color=3776AB"/>
+<img src="https://img.shields.io/badge/Cisco-Python_Essentials%201%20%26%202-1BA0D7?style=flat-square&logo=cisco&logoColor=white&color=1BA0D7"/>
+<img src="https://img.shields.io/badge/Cisco-Data_Science_Essentials-3776AB?style=flat-square&logo=python&logoColor=white&color=3776AB"/>
+<img src="https://img.shields.io/badge/Claude%20Partner%20Network%20Learning%20Path-FF9900?style=flat-square&logo=amazonaws&logoColor=white&color=FF9900"/>  
 </p>
+
 
 ---
 
