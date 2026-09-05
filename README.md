@@ -120,8 +120,11 @@ Native Arabic speaker (Levantine) · Advanced English (B2)
 
 ---
 
-### 📊 GitHub Analytics
-![Stats](./assets/stats.svg)
+GitHub activity
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMMADSMAIL&bg_color=0D1117&color=D97757&line=D97757&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" width="100%" /> </div>
+
+
 
 ---
 
