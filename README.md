@@ -20,3 +20,10 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 <div align="center">
 
 <div align="center">
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=750&lines=%3E%3E+SYSTEM+ONLINE+%3C%3C;%3E%3E+AI+%26+DATA+SCIENCE+%3C%3C;%3E%3E+PLAYER+1+READY+%3C%3C" />
+
+<br>
+
+<div align="center">
