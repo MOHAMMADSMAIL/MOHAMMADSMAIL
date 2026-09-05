@@ -1,0 +1,25 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10121a"/>
+      <stop offset="100%" stop-color="#1b1f2e"/>
+    </linearGradient>
+    <g id="corner">
+      <path d="M0,36 L0,12 Q0,0 12,0 L36,0" fill="none" stroke="#c9a227" stroke-width="1.5"/>
+      <circle cx="12" cy="12" r="2" fill="#c9a227"/>
+    </g>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect x="14" y="14" width="1172" height="272" fill="none" stroke="#c9a227" stroke-width="1"/>
+  <rect x="20" y="20" width="1160" height="260" fill="none" stroke="#c9a227" stroke-width="0.5" opacity="0.6"/>
+  <use href="#corner" transform="translate(24,24)"/>
+  <use href="#corner" transform="translate(1176,24) scale(-1,1)"/>
+  <use href="#corner" transform="translate(24,276) scale(1,-1)"/>
+  <use href="#corner" transform="translate(1176,276) scale(-1,-1)"/>
+  <circle cx="150" cy="150" r="56" fill="none" stroke="#c9a227" stroke-width="2"/>
+  <circle cx="150" cy="150" r="48" fill="none" stroke="#c9a227" stroke-width="0.75"/>
+  <text x="150" y="168" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#e8cf87" text-anchor="middle" font-weight="700">M</text>
+  <text x="260" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700" fill="#f0ece1">Mohammad Ismail</text>
+  <line x1="262" y1="172" x2="640" y2="172" stroke="#c9a227" stroke-width="1.5"/>
+  <text x="262" y="205" font-family="Georgia, serif" font-size="18" letter-spacing="0.5" fill="#a89968">DATA SCIENCE SPECIALIST · AI/ML DEVELOPER · FULL-STACK ENGINEER</text>
+</svg>
