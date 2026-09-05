@@ -88,14 +88,12 @@ Certifications
 
 </div>
 
-GitHub activity
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMMADSMAIL&bg_color=0D1117&color=D97757&line=D97757&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" width="100%" /> </div>
 
 
 
 
-<div align="center">
+
+
 
 
 Build with intent. Learn in public. Make complexity feel simple.
