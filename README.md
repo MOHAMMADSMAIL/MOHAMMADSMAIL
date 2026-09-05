@@ -32,11 +32,10 @@ Data Science Specialist | AI/ML Developer | Full Stack Engineer
 
 <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 15px; padding: 25px; margin: 20px;">
 
-Results-driven **AI and Data Science** professional with demonstrated expertise in **Natural Language Processing (NLP)**, data quality assessment, and linguistic evaluation. Proven ability to develop and implement machine learning models with focus on **Arabic language processing**. Full-stack developer experienced in building end-to-end applications from database design to frontend implementation.
+Results-driven AI and Data Science professional with proven expertise in machine learning, linguistic evaluation, and Arabic language processing. Experienced full-stack developer adept at building end-to-end applications, covering database design through frontend implementation.
 
 **Core Competencies:**
 - 🤖 Machine Learning & Deep Learning
-- 🗣️ NLP (Arabic/English)
 - 📊 Time Series Forecasting
 - 💻 Full-Stack Development (React + FastAPI)
 - 📈 Data Engineering & Analytics
@@ -103,16 +102,7 @@ OOP system with Abstract Factory, Strategy, and Template Method patterns. Integr
 <tr>
 <td align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin: 10px; width: 48%;">
 
-### 🗣️ Arabic NLP Model
 
-**Tech:** `Python`
-
-University project: ML model for Arabic (Levantine dialect) with text understanding, generation, and linguistic evaluation. Created comprehensive training datasets and validation frameworks.
-
-[View Repository →](https://github.com/MOHAMMADSMAIL)
-
-</td>
-<td align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin: 10px; width: 48%;">
 
 ### 🔗 More Projects
 
