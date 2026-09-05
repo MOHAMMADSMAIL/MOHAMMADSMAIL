@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Featured Projects](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/projects.svg)
+![Featured Projects](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/Projects.svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![About](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/about.svg)
+![About](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/About.svg)
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-![Stats](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/stats.svg)
+![Stats](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/Stats.svg)
 
 </div>
 
