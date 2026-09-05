@@ -144,9 +144,10 @@ Explore my full portfolio with all repositories, contributions, and ongoing proj
 
 **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,mysql,html,css,linux,jupyter&theme=dark" alt="Programming Languages" />
-  <br>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white&color=005571" alt="REST APIs" />
+  <img 
+    src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,mysql,html,css,linux,jupyter&theme=dark" 
+    alt="Programming Languages & Tools" 
+  />
 </p>
 **Frontend & Backend**
 <p align="center">
