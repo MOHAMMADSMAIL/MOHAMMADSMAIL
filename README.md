@@ -1,35 +1,34 @@
-<div align="center"> <table>
+<div align="center">
+<table>
 <tr>
 <td width="120" align="center">
 <img src="https://avatars.githubusercontent.com/MOHAMMADSMAIL?s=160" width="96" height="96" alt="Mohammad Ismail" />
 </td>
 <td align="left">
-Mohammad Ismail
+
+**Mohammad Ismail**
 
 AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Development
 
-
-
-
-
-
 </td>
 </tr>
-</table> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=760&lines=Turning+data+into+decisions.;Building+intelligent+products+end-to-end.;Arabic+%7C+English+%7C+Python+%7C+AI" alt="Animated introduction" /> </div>
+</table>
 
-<div align="center">
-
-<div align="center">
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=760&lines=Turning+data+into+decisions.;Building+intelligent+products+end-to-end.;Arabic+%7C+English+%7C+Python+%7C+AI" alt="Animated introduction" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=750&lines=%3E%3E+SYSTEM+ONLINE+%3C%3C;%3E%3E+AI+%26+DATA+SCIENCE+%3C%3C;%3E%3E+PLAYER+1+READY+%3C%3C" />
 
-<br>
+</div>
+
+---
 
 <div align="center">
 
+![Featured Projects](./assets/projects.svg)
 
+</div>
 
+---
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -38,6 +37,7 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 <a href="https://github.com/MOHAMMADSMAIL" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+---
 
 ### 💻 Tech Stack
 
@@ -79,23 +79,35 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </p>
 
+---
 
-Certifications
+### 🎓 Certifications
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft-Azure_Data_Engineer_(DP--800)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Cisco-Partner_Network_Learning_Path-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Cisco-Python_Essentials_1_%26_2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Science_Essentials-with_Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS AI Practitioner" /> <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" /> <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Engineer" /> <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM AI Fundamentals" /> <img src="https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Python Essentials" />
+*Build with intent. Learn in public. Make complexity feel simple.*
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity" width="100%" />
 
 </div>
 
-
-
-
-
-
-
-
-
-Build with intent. Learn in public. Make complexity feel simple.
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity" width="100%" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:08090D&height=110&section=footer&animation=twinkling" alt="Footer" width="100%" /> </div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:08090D&height=110&section=footer&animation=twinkling" alt="Footer" width="100%" />
+</div>
