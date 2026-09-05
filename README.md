@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Featured Projects](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/Projects.svg)
+> 🚧 **Projects are currently being updated.** 🚧
 
 </div>
 
@@ -20,7 +20,12 @@
 
 <div align="center">
 
-![About](https://raw.githubusercontent.com/MOHAMMADSMAIL/MOHAMMADSMAIL/main/assets/About.svg)
+```javascript
+const focus = [
+  "Natural Language Processing",
+  "Machine Learning",
+  "Full-Stack Development"
+];
 
 </div>
 
