@@ -25,16 +25,7 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 
 <div align="center">
 
-تمام، هاي النسخة الكاملة النهائية جاهزة للنسخ مباشرة (بعد ما تكون رفعت الثلاث ملفات SVG بالخطوات يلي قبل):
 
-```markdown
-![Banner](./assets/banner.svg)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Undergraduate;NLP+%26+Machine+Learning+Developer;Full+Stack+Engineer;Native+Arabic+%7C+Advanced+English" alt="Typing SVG" />
-</p>
-
----
 
 ### 👋 About Me
 
@@ -151,9 +142,3 @@ Bachelor of Science in Artificial Intelligence & Data Science — Zarqa Universi
 <p align="center"><i>"Any technological or managerial scheme to force documentation can be subverted by unwilling programmers." - Daniel T. Barry</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:141413&height=100&section=footer" />
-```
-
-**بدّل قبل الحفظ:** `YOUR-EMAIL` بإيميلك الحقيقي.
-
-⚠️ **مهم:** لازم ترفع الـ 3 ملفات SVG أول (`assets/banner.svg`, `assets/about.svg`, `assets/stats.svg`) من الخطوات يلي قبل، **قبل** ما تحفظ هاد الـ README — وإلا الصور ما رح تظهر لأنها بتشاور على ملفات غير موجودة.
-
