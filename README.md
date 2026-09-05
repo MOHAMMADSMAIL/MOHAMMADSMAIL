@@ -4,3 +4,6 @@
 <img src="https://avatars.githubusercontent.com/MOHAMMADSMAIL?s=160" width="96" height="96" alt="Mohammad Ismail" />
 </td>
 <td align="left">
+Mohammad Ismail
+
+AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Development
