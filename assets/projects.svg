@@ -1,0 +1,51 @@
+<svg width="900" height="820" viewBox="0 0 900 820" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="parchment" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#efe3c6"/>
+      <stop offset="50%" stop-color="#e2d0a4"/>
+      <stop offset="100%" stop-color="#d3bd8c"/>
+    </linearGradient>
+    <filter id="rough">
+      <feTurbulence type="fractalNoise" baseFrequency="0.015" numOctaves="4" seed="7" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="14"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="820" fill="#8a6d4a"/>
+  <rect x="15" y="15" width="870" height="790" fill="url(#parchment)" filter="url(#rough)"/>
+  <rect x="35" y="35" width="830" height="750" fill="none" stroke="#5c4632" stroke-width="3"/>
+  <rect x="42" y="42" width="816" height="736" fill="none" stroke="#5c4632" stroke-width="1"/>
+
+  <text x="450" y="95" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700" fill="#3b2b1a" text-anchor="middle" letter-spacing="3">FEATURED PROJECTS</text>
+  <line x1="220" y1="115" x2="680" y2="115" stroke="#8a6d4a" stroke-width="2"/>
+
+  <text x="80" y="175" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#3b2b1a">Weather Intelligence Platform</text>
+  <text x="80" y="205" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">React + FastAPI + SQLite — Full-stack weather app with real-time APIs,</text>
+  <text x="80" y="228" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">CRUD operations, multi-format export, and AI-powered recommendations.</text>
+
+  <line x1="80" y1="255" x2="820" y2="255" stroke="#c4a976" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <text x="80" y="300" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#3b2b1a">ML Classification Tool: From Scratch</text>
+  <text x="80" y="330" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">Python + NumPy — KNN, Naive Bayes &amp; Decision Trees built from first</text>
+  <text x="80" y="353" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">principles, with no black-box libraries. Full evaluation pipeline included.</text>
+
+  <line x1="80" y1="380" x2="820" y2="380" stroke="#c4a976" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <text x="80" y="425" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#3b2b1a">Weather Trend Forecasting</text>
+  <text x="80" y="455" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">Python + SARIMA + Scikit-learn — Compared SARIMA vs. Random Forest</text>
+  <text x="80" y="478" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">for temperature prediction (RMSE 2.87 vs 14.48). Includes anomaly detection.</text>
+
+  <line x1="80" y1="505" x2="820" y2="505" stroke="#c4a976" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <text x="80" y="550" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#3b2b1a">Employee Management System + AI</text>
+  <text x="80" y="580" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">Java + Design Patterns — OOP system with Performance Analyzer,</text>
+  <text x="80" y="603" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">Recommendation Engine &amp; Salary Predictor using multi-factor analysis.</text>
+
+  <line x1="80" y1="630" x2="820" y2="630" stroke="#c4a976" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <text x="80" y="675" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#3b2b1a">Arabic Language NLP Model</text>
+  <text x="80" y="705" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">Python — ML model simulating human-like responses in Arabic</text>
+  <text x="80" y="728" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#5c4632">(Levantine dialect), with full training and linguistic evaluation framework.</text>
+
+  <text x="450" y="775" font-family="Georgia, serif" font-size="14" fill="#8a6d4a" text-anchor="middle" font-style="italic">~ view repositories below for full source code ~</text>
+</svg>
