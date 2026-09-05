@@ -64,3 +64,47 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/MOHAMMADSMAIL" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+
+### 💻 Tech Stack
+
+**Programming Languages**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,sql" />
+</p>
+
+**Frontend & Backend**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite,fastapi,nodejs" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
+
+**Data Science & Machine Learning**
+<p align="center">
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge">
+<img src="https://img.shields.io/badge/Time_Series_Forecasting-3776AB?style=for-the-badge">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-65A9A8?style=for-the-badge">
+<img src="https://img.shields.io/badge/SARIMA-D97757?style=for-the-badge">
+</p>
+
+**Tools & Platforms**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,sqlite,postgres,vscode" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</p>
+
+
+
