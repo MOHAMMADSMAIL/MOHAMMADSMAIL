@@ -1,22 +1,8 @@
-<div align="center">
-<table>
-<tr>
-<td width="120" align="center">
-<img src="https://avatars.githubusercontent.com/MOHAMMADSMAIL?s=160" width="96" height="96" alt="Mohammad Ismail" />
-</td>
-<td align="left">
+ر<div align="center">
 
-**Mohammad Ismail**
+![Banner](./assets/banner.svg)
 
-AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Development
-
-</td>
-</tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=760&lines=Turning+data+into+decisions.;Building+intelligent+products+end-to-end.;Arabic+%7C+English+%7C+Python+%7C+AI" alt="Animated introduction" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=750&lines=%3E%3E+SYSTEM+ONLINE+%3C%3C;%3E%3E+AI+%26+DATA+SCIENCE+%3C%3C;%3E%3E+PLAYER+1+READY+%3C%3C" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Turning+data+into+decisions.;Building+intelligent+products+end-to-end.;Arabic+%7C+English+%7C+Python+%7C+AI" alt="Animated introduction" />
 
 </div>
 
@@ -25,6 +11,16 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 <div align="center">
 
 ![Featured Projects](./assets/projects.svg)
+
+</div>
+
+---
+
+### 👋 About Me
+
+<div align="center">
+
+![About](./assets/about.svg)
 
 </div>
 
@@ -81,6 +77,16 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 
 ---
 
+### 📊 GitHub Analytics
+
+<div align="center">
+
+![Stats](./assets/stats.svg)
+
+</div>
+
+---
+
 ### 🎓 Certifications
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -109,5 +115,5 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:08090D&height=110&section=footer&animation=twinkling" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=110&section=footer&animation=twinkling" alt="Footer" width="100%" />
 </div>
