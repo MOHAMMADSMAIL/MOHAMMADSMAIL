@@ -4,25 +4,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Turning+data+into+decisions.;Building+intelligent+products+end-to-end.;Arabic+%7C+English+%7C+Python+%7C+AI" alt="Animated introduction" />
 
-</div>
+### MOHAMMAD MOHSEN ISMAIL ISMAIL
+*Data Science Specialist | AI/ML Developer | Full Stack Engineer*
 
----
-
-<div align="center">
-
-### 🌟 Featured Projects
-
-</div>
-
-<div align="center">
-
-| 📌 Project | 🛠️ Tech Stack | 📝 Description |
-|------------|----------------|----------------|
-| **Weather Intelligence Platform** | React, FastAPI, SQLite | Full-stack weather app with real-time APIs, CRUD operations, multi-format export (JSON/CSV/PDF), and AI-powered recommendations |
-| **ML Classification Tool (From Scratch)** | Python, NumPy, Matplotlib | Implemented KNN, Naive Bayes, Decision Trees from scratch with data cleaning, encoding, scaling, and comparative visualization |
-| **Weather Trend Forecasting** | Python, Pandas, Scikit-learn, SARIMA | Time series forecasting with SARIMA vs Random Forest (RMSE: 2.87 vs 14.48), anomaly detection using Z-score |
-| **Employee Management System with AI** | Java, Design Patterns | OOP system with Abstract Factory, Strategy, Template Method patterns + AI Performance Analyzer, Recommendation Engine, Salary Predictor |
-| **Arabic Language NLP Model** | Python | University project: ML model for Arabic (Levantine dialect) with text understanding, generation, and linguistic evaluation |
+<p align="center">
+<a href="https://linkedin.com/in/mohammad-ismail-0721a3359" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mohammad.ismail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/MOHAMMADSMAIL" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 </div>
 
@@ -32,16 +21,9 @@
 
 ### 👋 About Me
 
-</div>
-
-<div align="center">
-
-**MOHAMMAD MOHSEN ISMAIL ISMAIL**  
-*Data Science Specialist | AI/ML Developer | Full Stack Engineer*
-
 Results-driven AI and Data Science professional with demonstrated expertise in **Natural Language Processing (NLP)**, data quality assessment, and linguistic evaluation. Proven ability to develop and implement machine learning models with focus on **Arabic language processing**. Full-stack developer experienced in building end-to-end applications from database design to frontend implementation.
 
-- 🌍 **Based in:** Middle East
+- 🌍 **Based in:** Zarqa, Jordan
 - 🗣️ **Languages:** Arabic (Native - Levantine Dialect) | English (Advanced - B2 Level)
 - 💻 **Core Stack:** Python, Java, JavaScript, SQL, React, FastAPI, Node.js
 - 📈 **Focus:** Machine Learning, Deep Learning, NLP, Time Series Forecasting, Data Engineering
@@ -51,12 +33,19 @@ Results-driven AI and Data Science professional with demonstrated expertise in *
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-<a href="https://linkedin.com/in/mohammad-ismail-0721a3359" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/MOHAMMADSMAIL" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+<div align="center">
+
+### 🌟 Featured Projects
+
+| 📌 Project | 🛠️ Tech Stack | 📝 Description |
+|------------|----------------|----------------|
+| **Weather Intelligence Platform** | React, FastAPI, SQLite | Full-stack weather app with real-time APIs (Open-Meteo, OpenStreetMap), CRUD operations, multi-format export (JSON/CSV/PDF), and AI-powered recommendations |
+| **ML Classification Tool (From Scratch)** | Python, NumPy, Matplotlib | Implemented KNN, Naive Bayes, Decision Trees from scratch with data cleaning, encoding, scaling, and comparative visualization |
+| **Weather Trend Forecasting** | Python, Pandas, Scikit-learn, SARIMA | Time series forecasting with SARIMA vs Random Forest (RMSE: 2.87 vs 14.48), anomaly detection using Z-score |
+| **Employee Management System with AI** | Java, Design Patterns | OOP system with Abstract Factory, Strategy, Template Method patterns + AI Performance Analyzer, Recommendation Engine, Salary Predictor |
+| **Arabic Language NLP Model** | Python | University project: ML model for Arabic (Levantine dialect) with text understanding, generation, and linguistic evaluation |
+
+</div>
 
 ---
 
@@ -113,8 +102,12 @@ Results-driven AI and Data Science professional with demonstrated expertise in *
 <!-- Top Languages -->
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOHAMMADSMAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&layout=compact&cache_seconds=86400" alt="Top Languages" />
 
-<!-- Contribution Graph with Green Dots (Snake Theme) -->
-<img src="https://github-readme-activity-graph.vercel.app/api?username=MOHAMMADSMAIL&theme=github-compact&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&line_color=2ea043&point_color=2ea043&hide_border=true&cache_seconds=86400" alt="Contribution Graph" />
+<!-- Contribution Graph -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOHAMMADSMAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&icon_color=2ea043&cache_seconds=86400" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MOHAMMADSMAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&icon_color=2ea043&cache_seconds=86400" alt="Productive Time" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/github-stats?username=MOHAMMADSMAIL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=7d8590&icon_color=2ea043&cache_seconds=86400" alt="GitHub Stats Card" />
 
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMADSMAIL&theme=dark&hide_border=true&background=0d1117&stroke=2ea043&ring=58A6FF&fire=2ea043&currStreakLabel=58A6FF&sideLabels=7d8590&sideNums=2ea043&currStreakNum=2ea043" alt="GitHub Streak" />
@@ -135,27 +128,6 @@ Results-driven AI and Data Science professional with demonstrated expertise in *
 <img src="https://img.shields.io/badge/Python_Essentials_1_%26_2-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Data_Science_Essentials-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
-
----
-
-### 💼 Professional Experience
-
-**Data Analyst Trainee | Zain Telecom | Remote | 4 Months**
-- Performed comprehensive data cleaning and preprocessing using Python
-- Developed data validation pipelines ensuring data quality and integrity
-- Analyzed large datasets using SQL queries to identify trends and insights
-- Contributed to system modernization initiatives using Java and SQL
-- Collaborated with cross-functional teams on quality assessment solutions
-
----
-
-### 🏆 Notable Technical Achievements
-
-- **Weather Intelligence Platform:** Full-stack app with React + FastAPI + SQLite, real-time weather APIs, multi-format export (JSON/CSV/PDF), AI-powered recommendations
-- **ML Classification from Scratch:** Implemented KNN, Naive Bayes, Decision Trees using only Python + NumPy with comparative visualization
-- **Weather Trend Forecasting:** SARIMA vs Random Forest (RMSE: 2.87 vs 14.48), Z-score anomaly detection
-- **Employee Management System:** Java OOP with Design Patterns (Abstract Factory, Strategy, Template Method) + AI Performance Analyzer, Recommendation Engine, Salary Predictor
-- **Arabic NLP Model:** University project for Levantine dialect with text understanding, generation, and linguistic evaluation
 
 ---
 
