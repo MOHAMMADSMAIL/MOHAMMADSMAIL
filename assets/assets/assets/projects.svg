@@ -1,1 +1,49 @@
 
+<svg width="900" height="760" viewBox="0 0 900 760" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="760" fill="#0d1117"/>
+
+  <g>
+    <rect x="20" y="20" width="860" height="120" rx="6" fill="#161b22" stroke="#30363d"/>
+    <circle cx="45" cy="48" r="6" fill="#3572A5"/>
+    <text x="62" y="53" font-family="-apple-system,sans-serif" font-size="18" font-weight="700" fill="#58a6ff">Weather-Intelligence-Platform</text>
+    <text x="40" y="80" font-family="-apple-system,sans-serif" font-size="14" fill="#8b949e">React + FastAPI + SQLite full-stack app: real-time APIs, CRUD, multi-format</text>
+    <text x="40" y="100" font-family="-apple-system,sans-serif" font-size="14" fill="#8b949e">export, and AI-powered recommendations.</text>
+    <text x="40" y="126" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#58a6ff">→ View Repo</text>
+  </g>
+
+  <g transform="translate(0,150)">
+    <rect x="20" y="20" width="860" height="120" rx="6" fill="#161b22" stroke="#30363d"/>
+    <circle cx="45" cy="48" r="6" fill="#3572A5"/>
+    <text x="62" y="53" font-family="-apple-system,sans-serif" font-size="18" font-weight="700" fill="#58a6ff">ML-Classification-Tool-From-Scratch</text>
+    <text x="40" y="80" font-family="-apple-system,sans-serif" font-size="14" fill="#8b949e">Python + NumPy — KNN, Naive Bayes &amp; Decision Trees implemented from</text>
+    <text x="40" y="100" font-family="-apple-system,sans-serif" font-size="14" fill="#8b949e">first principles, no black-box libraries.</text>
+    <text x="40" y="126" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#58a6ff">→ View Repo</text>
+  </g>
+
+  <g transform="translate(0,300)">
+    <rect x="20" y="20" width="860" height="120" rx="6" fill="#161b22" stroke="#30363d"/>
+    <circle cx="45" cy="48" r="6" fill="#3572A5"/>
+    <text x="62" y="53" font-family="-apple-system,sans-serif" font-size="18" font-weight="700" fill="#58a6ff">Weather-Trend-Forecasting</text>
+    <text x="40" y="80" font-family="-apple-system,sans-serif" font-size="14" fill="#8b949e">Python + SARIMA + Scikit-learn — SARIMA vs Random Forest comparison</text>
+    <text x="40" y="100" font-family="-apple-system,sans-serif" font-size="14" fill="#8b949e">(RMSE 2.87 vs 14.48), with Z-score anomaly detection.</text>
+    <text x="40" y="126" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#58a6ff">→ View Repo</text>
+  </g>
+
+  <g transform="translate(0,450)">
+    <rect x="20" y="20" width="860" height="120" rx="6" fill="#161b22" stroke="#30363d"/>
+    <circle cx="45" cy="48" r="6" fill="#b07219"/>
+    <text x="62" y="53" font-family="-apple-system,sans-serif" font-size="18" font-weight="700" fill="#58a6ff">Employee-Management-System-AI</text>
+    <text x="40" y="80" font-family="-apple-system,sans-serif" font-size="14" fill="#8b949e">Java + Design Patterns — OOP system with Performance Analyzer,</text>
+    <text x="40" y="100" font-family="-apple-system,sans-serif" font-size="14" fill="#8b949e">Recommendation Engine &amp; Salary Predictor.</text>
+    <text x="40" y="126" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#58a6ff">→ View Repo</text>
+  </g>
+
+  <g transform="translate(0,600)">
+    <rect x="20" y="20" width="860" height="120" rx="6" fill="#161b22" stroke="#30363d"/>
+    <circle cx="45" cy="48" r="6" fill="#3572A5"/>
+    <text x="62" y="53" font-family="-apple-system,sans-serif" font-size="18" font-weight="700" fill="#58a6ff">Arabic-Language-NLP-Model</text>
+    <text x="40" y="80" font-family="-apple-system,sans-serif" font-size="14" fill="#8b949e">Python — ML model simulating human-like responses in Arabic (Levantine),</text>
+    <text x="40" y="100" font-family="-apple-system,sans-serif" font-size="14" fill="#8b949e">with full training and linguistic evaluation framework.</text>
+    <text x="40" y="126" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#8b949e">University academic project</text>
+  </g>
+</svg>
