@@ -91,11 +91,11 @@ AI & Data Science Undergraduate · NLP · Machine Learning · Full-Stack Develop
 <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Cisco-Partner_Network_Learning_Path-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-</p>
-<p align="center">
 <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1_%26_2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
 <img src="https://img.shields.io/badge/Data_Science_Essentials-with_Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Anthropic-Claude_Partner_Network_Learning_Path-D97757?style=for-the-badge">
 </p>
 
 ---
